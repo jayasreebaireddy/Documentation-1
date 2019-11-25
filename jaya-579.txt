@@ -1,3 +1,4 @@
+25/11/19-monday
 Installed git and created a github account learnt few commands in github.
 commands-1.git add
          2.git pull REMOTENAME BRANCHNAMEgit push REMOTENAME BRANCHNAME
